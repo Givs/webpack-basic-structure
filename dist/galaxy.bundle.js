@@ -10,6 +10,6 @@
 /*!***********************!*\
   !*** ./src/galaxy.js ***!
   \***********************/
-eval("alert(\"Bem vindo a Via Lactea\")\n\n//# sourceURL=webpack://webpackpt2/./src/galaxy.js?");
+eval("alert(\"Bem vindo a Via Lactea\");\n\n//# sourceURL=webpack://webpackpt2/./src/galaxy.js?");
 /******/ })()
 ;
